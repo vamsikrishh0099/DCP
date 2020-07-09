@@ -1,3 +1,5 @@
+//WITHOUT DIVISION
+
 public class DCP{
 
      public int[] solve(int []a){
